@@ -8,7 +8,7 @@ int main(void) {
   a[2] = 1024;
   p = &n;
   /*
-   * write your line of code here.
+   * write your line of code here...
    * Remember:
    * - you are now allowed to use a
    * - you are not allowed to modify p
@@ -16,7 +16,7 @@ int main(void) {
    * - you are not allowed to code anything else than this line of code
    */
   ;
-  /* so that it prints 98 */
+  /* ...so that this prints 98 */
   printf("a[2] = %d\n", a[2]);
   return (0);
 }
